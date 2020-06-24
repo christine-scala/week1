@@ -2,7 +2,7 @@
 Homework2
 Christine Scala
 
-#All about me
+# All about me
 I ~~love~~ **tolerate** the Army
 
 I have 4 children
